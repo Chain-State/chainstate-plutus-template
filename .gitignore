@@ -1,0 +1,7 @@
+dist-newstyle/
+traceledger/txs/
+traceledger/keys/user.skey
+traceledger/keys/
+traceledger/keys/
+config-core-blockfrost-preprod.json
+config-core-maestro-preprod.json

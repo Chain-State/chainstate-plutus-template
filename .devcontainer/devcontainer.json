@@ -1,0 +1,17 @@
+{
+  "name": "Plutus",
+  "dockerComposeFile": "docker-compose-plutus.yml",
+  "service": "dev",
+  "workspaceFolder": "/workspace",
+  "shutdownAction": "stopCompose",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "haskell.haskell",
+        "vigoo.stylish-haskell"
+      ],
+      "settings": {
+        "haskell.formattingProvider": "stylish-haskell"
+      }
+    }
+  }
