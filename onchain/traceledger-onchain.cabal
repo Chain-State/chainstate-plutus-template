@@ -16,6 +16,7 @@ library
                     , data-default
                     , plutus-ledger-api
                     , plutus-tx-plugin
+                    , plutus-core
                     , plutus-tx
                     , text
                     , th-compat
